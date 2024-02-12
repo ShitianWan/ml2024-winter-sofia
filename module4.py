@@ -2,7 +2,7 @@ def main():
     n = int(input("Enter a positive integer: "))
     numbers = []
     for i in range(n):
-        num = int(input("Enter number: "))
+        num = int(input("Enter a number: "))
         numbers.append(num)
     x = int(input("Enter an integer: "))
     for i in range(n):
